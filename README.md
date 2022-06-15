@@ -1,6 +1,7 @@
 # Postal 2 Wineskin Wrapper
 
-Download for it is in the releases.
+Download for it is hosted on Mediafire due to Github's 2GB limit for releases.
 
-Pretty sure an average Mac device can handle this so no need to fret about lag.
-File size should be around 5GB.
+Also when you open the game, it will take a while for it to open, so just be patient
+
+Link: https://www.mediafire.com/file/4r1zm2a0jgah35t/Postal2.zip/file
